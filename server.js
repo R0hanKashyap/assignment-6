@@ -6,9 +6,9 @@
 * 
 *  Name: Rohan Kashyap Student ID: 158391201 Date: 13/4/2023
 *
-*  Cyclic Web App URL:
+*  Cyclic Web App URL: https://red-creepy-kingfisher.cyclic.app
 *
-*  GitHub Repository URL:
+*  GitHub Repository URL: https://github.com/R0hanKashyap/assignment-6
 *
 ********************************************************************************/ 
 
